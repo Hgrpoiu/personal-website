@@ -1,4 +1,4 @@
-
+import '../style.css'
 function Fact({fact}){
     return(<div class="factCard">
         <h5>{fact.name}</h5>

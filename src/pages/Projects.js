@@ -1,3 +1,4 @@
+import Project from "../components/Project"
 function Projects({ projects }) {
     return (
         <div>

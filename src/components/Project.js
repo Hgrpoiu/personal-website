@@ -1,3 +1,4 @@
+import '../style.css'
 function Project({ project }) {
     return (
         <div class="projectCard">
@@ -7,3 +8,5 @@ function Project({ project }) {
         //It'd be nice if I could demonstrate what it did 
     );
 }
+
+export default Project
